@@ -1,7 +1,7 @@
 {
   "name": "@riadhossain43/email-validator",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "validate": "node ./src/check.js",
     "validate:watch": "nodemon ./src/check.js"
