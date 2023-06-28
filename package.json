@@ -1,7 +1,6 @@
 {
   "name": "@riadhossain43/email-validator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "validate": "node ./src/check.js",
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiadHossain43/email-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RiadHossain43/email-validator/issues"
+  },
+  "homepage": "https://github.com/RiadHossain43/email-validator#readme",
+  "description": ""
 }
